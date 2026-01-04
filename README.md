@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gbaysamm
-- 👀 I’m interested in backend development and Phython programming 
-- 🌱 I’m currently learning Frontend development
+- 👀 I’m interested in block chain programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on whatsapp: +234811471165
 
