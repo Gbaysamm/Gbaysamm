@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/abdulmalik-yakub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yakubabdulmalik157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://smartscholars.app"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://abdulmalik-c4vg.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 ---
